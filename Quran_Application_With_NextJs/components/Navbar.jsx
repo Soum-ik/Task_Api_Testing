@@ -11,8 +11,8 @@ function Navbar() {
           className=" space-x-3
         "
         >
-          <Link href={``}>Login</Link>
-          <Link href={``}>Sing Up</Link>
+          <Link className=" text-[18px]" href={`login`}>Login</Link>
+          <Link className=" text-[18px]" href={`singup`}>Sing Up</Link>
         </div>
       </div>
     </div>

@@ -1,7 +1,7 @@
 import React from "react";
 
 function Page() {
-  return <div>login Page</div>;
+  return <div className=" text-[30px] text-center">login Page</div>;
 }
 
 export default Page;
